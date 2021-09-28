@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946997752967",
+    "project_id": "ventas-abcc5",
+    "storage_bucket": "ventas-abcc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946997752967:android:14738b5fb5753689373422",
+        "android_client_info": {
+          "package_name": "com.example.ventasfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946997752967-sap7jgm932vdq0725fok39r14lkbhmv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcC35b_FQHcFYNmkYJfQfywsloYdFOAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946997752967-sap7jgm932vdq0725fok39r14lkbhmv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
